@@ -6,7 +6,7 @@ Several years of Mobile and Android Engineering under my belt. Currently expandi
 
 Could talk all day about Action Combat RPGs if left unchecked.
 
-## Showcase showcase
+## Showcase
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
     <a href="https://github.com/SpicyCactuar/vulkan-ssr" target="_blank" rel="noopener noreferrer">
@@ -25,6 +25,5 @@ Could talk all day about Action Combat RPGs if left unchecked.
 
 ## Get in touch
 
-```
-// TODO: Write
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emanuel-lamela)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=mailboxdotorg&logoColor=white)](mailto:lamelaemanuel@gmail.com)
