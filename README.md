@@ -2,7 +2,7 @@
 
 You found a [cactuar](https://en.wikipedia.org/wiki/Cactuar), a spicy purple one. I bring real-time visual experiences to life.
 
-Several years of Mobile and Android Engineering under my belt. Currently expanding my domain to the Graphics and Gaming industry.
+Software Engineer with over 7 years of experience. Currently expanding my domain to the Graphics and Gaming industry.
 
 Could talk all day about Action Combat RPGs if left unchecked.
 
